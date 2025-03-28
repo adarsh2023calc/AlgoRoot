@@ -17,6 +17,7 @@ def retrieve_function(user_query):
     )
     
     if results["ids"]:
+        print(results)
         function_name = results["ids"][0][0]
         return function_name
     return None
