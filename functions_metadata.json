@@ -1,0 +1,14 @@
+{
+    "open_chrome": "Launches Google Chrome browser.",
+    "open_calculator": "Opens the calculator application.",
+    "get_cpu_usage": "Retrieves the current CPU usage percentage.",
+    "get_ram_usage": "Retrieves the current RAM usage percentage.",
+    "get_disk_usage": "Retrieves total, used, and free disk space.",
+    "run_shell_command": "Executes a shell command in the terminal.",
+    "list_processes": "Lists all running processes on the system.",
+    "kill_process": "Terminates a process by its PID.",
+    "get_public_ip": "Fetches the public IP address of the machine.",
+    "ping_host": "Sends a ping request to a specified host.",
+    "create_file": "Creates a new file with optional content.",
+    "delete_file": "Deletes a specified file from the system."
+}
