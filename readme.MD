@@ -84,5 +84,4 @@ For any queries or contributions, feel free to reach out:
 - **Email**: [adarshs2023@gmail.com]
 - **GitHub**: [@adarsh2023calc](https://github.com/adarsh2023calc)
 
-Happy Coding! 🚀
 
