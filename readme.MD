@@ -58,6 +58,15 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 
+
+## Output
+
+![UI](images/Out1.png)
+- Opening Chrome
+![Opening chrome](images/Out2.png)
+
+![Disk Usage](images/Out3.png)
+
 ## Additional Notes
 - Ensure `chroma_retrieval.py` is present in the working directory, as it is required for retrieval functions.
 - Some system-level dependencies may require additional installations based on the OS.
